@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Series_PolarLineChart/Form1.cs) (VB: [Form1.vb](./VB/Series_PolarLineChart/Form1.vb))
+* [Program.cs](./CS/Series_PolarLineChart/Program.cs) (VB: [Program.vb](./VB/Series_PolarLineChart/Program.vb))
+<!-- default file list end -->
 # How to create a Polar Line chart
 
 
