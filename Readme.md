@@ -6,9 +6,6 @@
 <!-- default file list end -->
 # How to create a Polar Line chart
 
+The following example demonstrates how to create a [Polar Line](https://docs.devexpress.com/WindowsForms/3318/controls-and-libraries/chart-control/series-views/2d-series-views/polar-series-views/polar-line-chart?p=netframework) chart at runtime.
 
-<p>The following example demonstrates how to create a <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument3318.htm">Polar Line</a> chart at runtime.</p><p>Note that this series view type is associated with the <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5907.htm">Polar Diagram</a> type, and you should cast your <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6017.htm">diagram</a> object to this type, in order to access its specific options.</p>
-
-<br/>
-
-
+Note that this series view type is associated with the [Polar Diagram](https://docs.devexpress.com/WindowsForms/5907/controls-and-libraries/chart-control/diagram/radar-and-polar-diagrams?p=netframework) type, and you should cast your [diagram](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.Diagram?p=netframework) object to this type, in order to access its specific options.
